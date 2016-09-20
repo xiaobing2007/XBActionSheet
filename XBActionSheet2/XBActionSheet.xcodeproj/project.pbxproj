@@ -15,6 +15,7 @@
 		7380799E1D73C21500126FC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7380799C1D73C21500126FC2 /* Main.storyboard */; };
 		738079A01D73C21500126FC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7380799F1D73C21500126FC2 /* Assets.xcassets */; };
 		738079A31D73C21500126FC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 738079A11D73C21500126FC2 /* LaunchScreen.storyboard */; };
+		73FF1BFE1D910B9400DF9EAE /* yanShi.gift.mov in Resources */ = {isa = PBXBuildFile; fileRef = 73FF1BFD1D910B9400DF9EAE /* yanShi.gift.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		7380799F1D73C21500126FC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		738079A21D73C21500126FC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		738079A41D73C21500126FC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73FF1BFD1D910B9400DF9EAE /* yanShi.gift.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = yanShi.gift.mov; sourceTree = "<group>"; };
 		B2E926CD8C88C5355877C299 /* Pods-XBActionSheet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XBActionSheet.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XBActionSheet/Pods-XBActionSheet.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,6 +69,7 @@
 		738079871D73C21500126FC2 = {
 			isa = PBXGroup;
 			children = (
+				73FF1BFD1D910B9400DF9EAE /* yanShi.gift.mov */,
 				738079921D73C21500126FC2 /* XBActionSheet */,
 				738079911D73C21500126FC2 /* Products */,
 				34AC1908456A5F6BD6D614A0 /* Pods */,
@@ -171,6 +174,7 @@
 				738079A31D73C21500126FC2 /* LaunchScreen.storyboard in Resources */,
 				738079A01D73C21500126FC2 /* Assets.xcassets in Resources */,
 				7380799E1D73C21500126FC2 /* Main.storyboard in Resources */,
+				73FF1BFE1D910B9400DF9EAE /* yanShi.gift.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
