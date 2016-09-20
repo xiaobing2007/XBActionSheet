@@ -1,0 +1,2 @@
+# XBActionSheet
+一个类似于系统的UIActionSheet的弹框选择,系统自带的UIActionSheet无法修改title字体颜色,大小的缺点,本自定的view可以修复
